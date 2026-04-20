@@ -1,3 +1,4 @@
+-- bài 1
 -- câu 1.1
 CREATE OR REPLACE VIEW vw_course_summary AS 
 SELECT co.courseno, 
